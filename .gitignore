@@ -1,0 +1,10 @@
+node_modules/
+.npm-cache/
+dist/
+.env
+.DS_Store
+coverage/
+*.db
+*.db-wal
+*.db-shm
+
